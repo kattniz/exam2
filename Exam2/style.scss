@@ -1,0 +1,22 @@
+$light-blue: #6E8CD4;
+$dark-blue:#5075C9;
+.body {
+    margin: 0 auto;
+    line-height: 1;
+}
+
+.site-container {
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+header {
+    //background-position: center;
+    // background-repeat: no-repeat;
+    // background-size: cover;
+    display: flex;
+    //justify-content: flex-start;
+    align-items: center;
+    //flex-direction: column;
+}
